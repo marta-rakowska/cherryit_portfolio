@@ -1,7 +1,15 @@
 # Portfolio
 
-## About me 👩‍💻
+## About 
 
-My name is Marta. I'm a Junior Manual Tester and Test Automation Engineer.
+To repozytorium zawiera portfolio, które stworzyłam podczas udziału w inicjatywie COLT 2/2023 zorganizowanej przez Cherry-IT.
 
-In June 2022 I decided to change my career path from accounting to IT. I finished postgraduate studies in Python programming. The study program covered automated testing with Selenium and Robot Framework. I liked them so much that I decided to become a tester. I even wrote automated tests as the final project. I completed „Automated testing + Python” challenge at Dare IT. I took part in QA marathon organized by GoIT. I’m doing the „Automated Testing Foundations” training at EPAM. I’m interested both in manual and automated testing. Currently I’m taking part in training project organized by Cherry-IT. I’m also preparing for the ISTQB Foundational Level exam.
+Przedmiotem testów jest testowy sklep internetowy https://skleptest.pl/.
+
+Projekt obejmuje:
+1. [Przypadki testowe](https://docs.google.com/spreadsheets/d/1qtvzUVJrt6jkIPzGqLiCNp43ICbGzRUG/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true)
+2. Raporty błędów.
+
+
+
+
