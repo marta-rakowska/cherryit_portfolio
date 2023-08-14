@@ -1,6 +1,6 @@
 # Portfolio
 
-To repozytorium zawiera portfolio, które stworzyłam podczas udziału w projekcie COLT 2/2023 prowadzonym przez Annę Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/) z Cherry-IT.
+To repozytorium zawiera portfolio, które stworzyłam podczas udziału w projekcie COLT 2/2023 prowadzonym przez [Annę Czyrko](https://www.linkedin.com/in/ania-czyrko-05933aa1/) z Cherry-IT.
 
 Zakres pracy:
 - zapoznanie się z GIT oraz stworzenie pierwszego repozytorium,
