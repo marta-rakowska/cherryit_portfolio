@@ -4,7 +4,7 @@ To repozytorium zawiera portfolio, które stworzyłam podczas udziału w projekc
 
 Zakres pracy:
 - zapoznanie się z GIT oraz stworzenie pierwszego repozytorium,
-- umiejętność wysyłania commitów do repozytorium, oraz tworzenia PR,
+- umiejętność wysyłania commitów do repozytorium oraz tworzenia PR,
 - praca na branchach,
 - umiejętność raportowania błędów oraz ćwiczenia w zgłaszaniu błędów za pomocą JIRA,
 - umiejętność tworzenia przypadków testowych.
@@ -13,7 +13,7 @@ Przedmiotem testów jest sklep internetowy https://skleptest.pl/.
 
 Projekt obejmuje:
 1. [Przypadki testowe](https://docs.google.com/spreadsheets/d/1qtvzUVJrt6jkIPzGqLiCNp43ICbGzRUG/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true)
-2. Raporty błędów.
+2. [Raporty błędów](https://drive.google.com/file/d/16tWf1cEKZA-wawP5NGpdq_D3RPrdtDFs/view?usp=share_link)
 
 
 
