@@ -13,7 +13,7 @@ Przedmiotem testów jest sklep internetowy https://skleptest.pl/.
 
 Projekt obejmuje:
 1. [Przypadki testowe](https://docs.google.com/spreadsheets/d/1qtvzUVJrt6jkIPzGqLiCNp43ICbGzRUG/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true)
-2. [Raporty błędów](https://drive.google.com/file/d/16tWf1cEKZA-wawP5NGpdq_D3RPrdtDFs/view?usp=share_link)
+2. [Raporty błędów](https://docs.google.com/spreadsheets/d/1ymsVNEg0DykPaGClcI6LBfXYcFpchWel/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true)
 
 
 
